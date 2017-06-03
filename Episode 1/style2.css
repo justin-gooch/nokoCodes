@@ -1,0 +1,19 @@
+.bold
+{
+  font-size: 300%;
+}
+.green
+{
+  color: green;
+}
+.blue
+{
+  color: blue;
+}
+.red
+{
+  color:red;
+}
+/*
+elements are just the names of the elements (a.e. html, body, p, b, h2, etc)
+ids have a number sign in front of them. */
